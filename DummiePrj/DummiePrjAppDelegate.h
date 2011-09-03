@@ -6,6 +6,9 @@
 //  Copyright 2011 RSU. All rights reserved.
 //
 
+// AAA
+// BBB
+
 #import <UIKit/UIKit.h>
 
 @interface DummiePrjAppDelegate : NSObject <UIApplicationDelegate> {
